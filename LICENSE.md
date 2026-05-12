@@ -1,4 +1,4 @@
-# 
+# automatic Evernote for Windows Helper | templates + wiki-style-links offers the most advanced Evernote for Windows helper, with templates and wiki-style-links. Ideal for Windows
 
 
 
